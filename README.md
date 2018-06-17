@@ -4,7 +4,7 @@ title: 这是一个类淘票移动端web应用
 
 技术栈：react  /  react-created-dom  /  react-router
 功能介绍： 
-        首页   
+        首页    <br>
             1，城市浮层；
             2，导图轮播；
             3，点击电影列表进入详情页；
