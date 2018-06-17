@@ -14,4 +14,10 @@
             2，评论筛选；<br>
             3. 多行文本折叠显示方案；<br>
          购票页面<br>
-            1，选座交互<br>
+            1，选座交互<br> 
+ 如何开始
+ # install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
